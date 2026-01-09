@@ -1,6 +1,6 @@
 ## Hi there, 您好👋
 
-🎓 MEng student in **Logistics Engineering & Management (Smart Logistics)**  
+🎓 MEng. **Logistics Engineering & Management (Smart Logistics)**  
 📍 Tsinghua Shenzhen International Graduate School, China
 ---
 ### 💬 Ask me about
