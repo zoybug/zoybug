@@ -15,7 +15,7 @@
 - Warehousing, routing, and operational optimization (simulation / analytics focused)
 - AI Engineering & Data Science Projects
 ---
-### 🛠 Tools I use
+### Tools I use
 - Python | R | SQL | MATLAB | Power BI | Tableau | Excel VBA
 
 ---
