@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, 您好👋
 
 🎓 MEng. student in **Logistics Engineering & Management (Smart Logistics Track)**  
 📍 Tsinghua University, China
@@ -15,7 +15,8 @@
 - Warehousing, routing, and operational optimization (simulation / analytics focused)
 ---
 ### 🛠 Tools I use
-Python | R | SQL | MATLAB | Power BI | Tableau
+Python | R | SQL | MATLAB | Power BI | Tableau | Excel 
+
 ---
 ### 📫 How to reach me
 📧 zuoy24@mails.tsinghua.edu.cn
