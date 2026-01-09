@@ -22,5 +22,6 @@
 ### 📫 How to reach me
 📧 zuoy24@mails.tsinghua.edu.cn
 
-### 😎 Fun Fact about me
-- I like cooking & Hiking 
+### 😎 Selected Certificates 
+- Microsoft SQL Server (https://coursera.org/share/c01d9f3348a3abee38ba76d4e0b809ec)
+- Google Data Analytics (https://coursera.org/share/0387429645271ecd1d3217646625fc4e)
