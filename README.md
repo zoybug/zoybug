@@ -1,7 +1,7 @@
 ## Hi there, 您好👋
 
-🎓 MEng. Logistics Engineering & Management (Smart Logistics Track)
-📍 Tsinghua University, China
+🎓 MEng student in **Logistics Engineering & Management (Smart Logistics)**  
+📍 Tsinghua Shenzhen International Graduate School, China
 ---
 ### 💬 Ask me about
 - Higher education in **China** (applications, universities, majors)
