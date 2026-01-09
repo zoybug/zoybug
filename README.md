@@ -1,6 +1,6 @@
 ## Hi there, 您好👋
 
-###🎓 MEng. Logistics Engineering & Management (Smart Logistics Track)
+🎓 MEng. Logistics Engineering & Management (Smart Logistics Track)
 📍 Tsinghua University, China
 ---
 ### 💬 Ask me about
