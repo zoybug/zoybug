@@ -5,7 +5,7 @@
 ---
 ### 💬 Ask me about
 - Higher education in **China** (applications, universities, majors)
-- Student life in China: academics, lifestyle, food, and day-to-day realities
+- Student life in China: academics, lifestyle, **food**, and day-to-day realities
 - Cross-cultural study experiences and adapting to Chinese universities
 - Navigating STEM and logistics programs as an international student in China
 ---
@@ -15,10 +15,11 @@
 - Warehousing, routing, and operational optimization (simulation / analytics focused)
 ---
 ### 🛠 Tools I use
-Python | R | SQL | MATLAB | Power BI | Tableau | Excel 
+- Python | R | SQL | MATLAB | Power BI | Tableau | Excel VBA
 
 ---
 ### 📫 How to reach me
 📧 zuoy24@mails.tsinghua.edu.cn
 
-Fun Fact about me: Hiking! 
+### 😎 Fun Fact about me
+- I like cooking & Hiking 
