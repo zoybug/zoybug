@@ -13,6 +13,7 @@
 - **Smart Logistics** and transportation systems research  
 - Transport efficiency, infrastructure evaluation, and data-driven logistics analysis  
 - Warehousing, routing, and operational optimization (simulation / analytics focused)
+- AI Engineering & Data Science Projects
 ---
 ### 🛠 Tools I use
 - Python | R | SQL | MATLAB | Power BI | Tableau | Excel VBA
