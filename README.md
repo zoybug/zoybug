@@ -1,7 +1,3 @@
-## Hi there, 您好 👋
+how do I put this...i like topics on logistics engineering and management so if you wanna talk talk; please feel free to get it touch yep!
 
-🎓 MEng. **Logistics Engineering & Management (Smart Logistics)**  
-📍 Tsinghua Shenzhen International Graduate School, China
-
-### How to reach me
 📧 zuoy24@mails.tsinghua.edu.cn
