@@ -1,9 +1,9 @@
 # **The Raven**
 Edgar Allan Poe
 
-...Ah, distinctly I remember it was in the bleak December;  
-And each separate dying ember wrought its ghost upon the floor.  
-Eagerly I wished the morrow;—vainly I had sought to borrow  
-From my books surcease of sorrow—sorrow for the lost Lenore—  
-For the rare and radiant maiden whom the angels name Lenore—  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nameless here for evermore.
+Presently my soul grew stronger; hesitating then no longer,  
+“Sir,” said I, “or Madam, truly your forgiveness I implore;  
+But the fact is I was napping, and so gently you came rapping,  
+And so faintly you came tapping, tapping at my chamber door,  
+That I scarce was sure I heard you”—here I opened wide the door;—  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Darkness there and nothing more.
